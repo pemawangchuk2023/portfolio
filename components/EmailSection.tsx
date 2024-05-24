@@ -12,7 +12,7 @@ const EmailSection =() => {
         <div className="space-y-4">
           <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-white dark:text-white">Contact Me</h2>
           <p className="max-w-[600px] text-white md:text-xl lg:text-base xl:text-xl dark:text-gray-400 text-justify">
-            I'm always excited to connect with new people and discuss potential collaborations or just chat about the latest tech trends.
+            I am always excited to connect with new people and discuss potential collaborations or just chat about the latest tech trends.
             Feel free to reach out to me via email or social media.
           </p>
           <div className="flex items-center space-x-4">
@@ -31,7 +31,7 @@ const EmailSection =() => {
         <Card>
           <CardHeader>
             <CardTitle>Get in Touch</CardTitle>
-            <CardDescription className="text-xl">Fill out the form below and I'll get back to you as soon as possible.</CardDescription>
+            <CardDescription className="text-xl">Fill out the form below and I will get back to you as soon as possible.</CardDescription>
           </CardHeader>
           <CardContent className="space-y-4 text-4xl">
             <div className="space-y-2">

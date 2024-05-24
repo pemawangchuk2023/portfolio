@@ -10,7 +10,7 @@ const Projects = () => {
         <div className="mb-6 md:mb-8 lg:mb-10 text-center">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-2 text-white">My Projects</h2>
           <p className="text-white text-lg md:text-xl mt-2">
-            Check out some of the projects I've worked on.
+            Check out some of the projects I have worked on.
           </p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-6 lg:gap-8">

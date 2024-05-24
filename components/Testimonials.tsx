@@ -46,7 +46,7 @@ const Testimonials =() => {
               </div>
             </div>
             <blockquote className="mt-4 flex-1 text-lg font-semibold leading-snug">
-              “Pema Wangchuk's team was a pleasure to work with. They were responsive, creative, and delivered a solution that exceeded our expectations.”
+              “Pema and his team were a pleasure to work with. They were responsive, creative, and delivered a solution that exceeded our expectations.”
             </blockquote>
           </div>
           <div className="flex flex-col items-start rounded-lg bg-white p-6 shadow-sm transition-all hover:scale-[1.02] dark:bg-gray-950">
